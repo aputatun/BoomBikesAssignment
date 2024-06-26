@@ -1,4 +1,4 @@
- Bike Demand Prediction Model using Multiple Linear Regression
+ BoomBikes Bike Sharing Prediction Model using Multiple Linear Regression
 
 ## Overview
 This project aims to predict the demand for shared bikes post-Covid-19 lockdowns using machine learning techniques, specifically multiple linear regression. The goal is to assist BoomBikes in understanding the factors that influence bike demand, thereby optimizing their business strategy.
